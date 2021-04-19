@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\Proyecto - Labtec\Labtec\Labtec\obj\Debug\Labtec.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Proyecto - Labtec\Labtec\Labtec\obj\Debug\Labtec.FrInicio.resources
+C:\Users\HP\Desktop\Proyecto - Labtec\Labtec\Labtec\obj\Debug\Labtec.Properties.Resources.resources
+C:\Users\HP\Desktop\Proyecto - Labtec\Labtec\Labtec\obj\Debug\Labtec.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Proyecto - Labtec\Labtec\Labtec\obj\Debug\Labtec.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Proyecto - Labtec\Labtec\Labtec\bin\Debug\Labtec.exe.config
+C:\Users\HP\Desktop\Proyecto - Labtec\Labtec\Labtec\bin\Debug\Labtec.exe
+C:\Users\HP\Desktop\Proyecto - Labtec\Labtec\Labtec\bin\Debug\Labtec.pdb
+C:\Users\HP\Desktop\Proyecto - Labtec\Labtec\Labtec\obj\Debug\Labtec.exe
+C:\Users\HP\Desktop\Proyecto - Labtec\Labtec\Labtec\obj\Debug\Labtec.pdb
+C:\Users\HP\Desktop\Proyecto - Labtec\Labtec\Labtec\obj\Debug\Labtec.FrRecuperarClave.resources
